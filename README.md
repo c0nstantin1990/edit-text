@@ -15,10 +15,16 @@ This web application is a feature-rich text editor. It boasts a robust client-se
 ## Installation
 
 - npm i (to install all dependencies)
-- npm run seed (seeding data)
 - npm start (to start the app)
 
 ## Usage
+
+IndexeDb:
+![IndexedDb](/screenshots/indexedDb.jpeg)
+Service Worker:
+![Service Worker](/screenshots/service-worker.jpeg)
+Manifest
+![Update user](/screenshots/manifest.jpeg)
 
 GitHub Repo: https://github.com/c0nstantin1990/edit-text
 
