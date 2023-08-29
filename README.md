@@ -36,6 +36,8 @@ Deployed Link: https://edite-text-8a293a65ab0a.herokuapp.com/
 
 - Creating Text
 - Saving Text in IndexedDB
+- App can be Installed
+- App work's without internet connection
 
 ## Sources
 
